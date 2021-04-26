@@ -44,7 +44,7 @@ The purpose of this step of the guide will be to get you an account for later.
 > If your eyes are bleeding from the default light mode then click the button next to the + at the top right,
 > then click settings in said drop down, followed by appearance, and then finally "Default dark".
 
-> Click here to go back to your profile page.
+> Click "Go to your personal profile" to go back to your profile page.
 
 ![Github go to Profile](./images/github_go_to_profile.PNG)
 
