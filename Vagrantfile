@@ -51,8 +51,8 @@ Vagrant.configure("2") do |config|
         juiceshop.vm.box = "ubuntu/xenial64"
         juiceshop.vm.hostname = "juice.sh"
         juiceshop.vm.network "private_network", ip: "192.168.33.20"
-        juiceshop.vm.provision "file", source: ".provision/www/default.conf", destination: "/tmp/juice-shop/default.conf"
-        juiceshop.vm.provision :shell, path: ".provision/juiceshop.sh"
+        juiceshop.vm.provision "file", source: "provision/www/default.conf", destination: "/tmp/juice-shop/default.conf"
+        juiceshop.vm.provision :shell, path: "provision/juiceshop.sh"
 
         juiceshop.vm.post_up_message = "View this machine at http://192.168.33.20"
     end
