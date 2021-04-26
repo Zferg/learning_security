@@ -2,10 +2,10 @@
 
 > This is a guide that will teach you the basics of:
 
-    > [Github/git](https://github.com/) - Storage
-    > [Visual Studio Code](https://code.visualstudio.com/) - Code Editor
-    > [Kali linux](https://www.kali.org/) - Toolbox
-    > [Juiceshop](https://owasp.org/www-project-juice-shop/) - Objective
+- [Github/git](https://github.com/) - Storage
+- [Visual Studio Code](https://code.visualstudio.com/) - Code Editor
+- [Kali linux](https://www.kali.org/) - Toolbox
+- [Juiceshop](https://owasp.org/www-project-juice-shop/) - Objective
 
 > Please feel free to use this to get started in the wonderful world of security!
 
@@ -35,7 +35,7 @@ potential on the table, the real power comes in the form of developing on either
 
 The purpose of this step of the guide will be to get you an account for later.
 
-> Click sign up or sign in that should be present at the top right of the window:
+> Click "Sign up" or "Sign" in that should be present at the top right of the window:
 
 ![Github Signup Page](./images/github_signup.PNG)
 
