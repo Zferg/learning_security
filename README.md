@@ -37,7 +37,7 @@ The purpose of this step of the guide will be to get you an account for later.
 
 > Click sign up or sign in that should be present at the top right of the window:
 
-![Github Signup Page](./images/github_signup.png)
+![Github Signup Page](./images/github_signup.PNG)
 
 > Once on the sign up page just follow the directions until you have your account.
 
@@ -46,7 +46,7 @@ The purpose of this step of the guide will be to get you an account for later.
 
 > Click here to go back to your profile page.
 
-![Github go to Profile](./images/github_go_to_profile.png)
+![Github go to Profile](./images/github_go_to_profile.PNG)
 
 > Welcome to github!
 
