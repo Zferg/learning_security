@@ -74,3 +74,7 @@ very helpful extensions and tools that will make your life easier.
 ### Objective - Juiceshop
 
 <!-- :TODO: ADD RUNNING THE JUICESHOP UP COMMAND AND HOW TO GET KALI AND JUICESHOP TO WORK TOGETHER -->
+
+### Further Reading
+
+<!-- :TODO: ADD FURTHER PATHS FOR PEOPLE TO CONTINUE DOWN IF THEY WANT -->
