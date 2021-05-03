@@ -72,7 +72,7 @@ Helpful extensions:
     In your VSCode terminal put `vagrant halt juiceshop`
 
 
-<!-- :TODO: ADD RUNNING THE JUICESHOP UP COMMAND AND HOW TO GET KALI AND JUICESHOP TO WORK TOGETHER -->
+<!-- :TODO: HOW TO GET KALI AND JUICESHOP TO WORK TOGETHER -->
 
 ### Further Reading
 
