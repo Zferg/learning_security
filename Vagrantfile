@@ -27,7 +27,6 @@ Vagrant.configure("2") do |config|
 
         # Setup directory structure
         kali.vm.provision "file", source: "data/code", destination: "$HOME/code"
-        kali.vm.provision "file", source: "data/ctf", destination: "$HOME/ctf"
         
         kali.trigger.after :up do |trigger|
             trigger.info = "Starting tor"
@@ -56,3 +55,5 @@ Vagrant.configure("2") do |config|
 
         juiceshop.vm.post_up_message = "View this machine at http://192.168.33.20"
     end
+  
+end
